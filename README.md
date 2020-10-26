@@ -1,5 +1,5 @@
 # jenkins_QA
 
-repository to work on jenkins.
-
-Contains Jenkins webhook for Jenkins & Github integration.
+Repository having working examples of Jenkins Github Integrations
+Jenkins webhook for Jenkins & Github integration.
+Pipeline covering different stages and steps
