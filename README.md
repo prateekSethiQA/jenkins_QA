@@ -2,4 +2,4 @@
 
 repository to work on jenkins.
 
-Contains Jenkins webhook for Jenkins & Github integration
+Contains Jenkins webhook for Jenkins & Github integration.
