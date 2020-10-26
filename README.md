@@ -1,3 +1,3 @@
 # jenkins_QA
 repository to work on jenkins
-Contains Jenkins webhook
+Contains Jenkins webhook for Jenkins & Github integration
